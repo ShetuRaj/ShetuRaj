@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shetu 👋</h1>
-<h3 align="center">I am a Software Development Engineer having a versatile work experience of around 1+ years building enterprise applications with expertise in full stack, devops, automation, scripting and server side technologies. I am proficient in C++, Java, Python and Javascript along with good problem-solving and interpersonal skills.</h3>
+<h3 align="center">I am a Software Engineer at Microsoft having a versatile work experience of around 2 years building enterprise applications with expertise in full stack, devops, automation, scripting and server side technologies. I am proficient in C++, Java, Python and Javascript along with good problem-solving and interpersonal skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheturaj&label=Profile%20views&color=0e75b6&style=flat" alt="sheturaj" /> </p>
 
